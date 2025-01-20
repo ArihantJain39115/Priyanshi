@@ -82,8 +82,6 @@
         <div id="page12" class="page">
             <h1>Yayy you made the best decision. Congratulations to me for being this lucky to have you as my VALENTINE. 😁🎉🥳✨</h1>
             <h1>I LOVEEEEE YOUUUUU SOOOOOO MUCHHHH</h1>
-            <h1>Play video to know how am I feeling now....</h1>
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/WYjVa10bP1c?si=LkuZy1afnlSruUc4&amp;start=9&end=50" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
             <br>
             <button onclick="goToPage(14)">Move forward -></button>
         </div>
