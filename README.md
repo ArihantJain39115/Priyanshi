@@ -1,10 +1,14 @@
-
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Special Message for &#9825;Priyanshi&#9825;</title>
     <link rel="stylesheet" href="style.css">
+    <style>
+    a{
+        font-size:0px;
+        text-decoration:none;
+    }
+</style>
 </head>
 <body>
     <div id="container">
@@ -105,5 +109,5 @@
 
 
     <script src="script.js"></script>
-</body>
+
 
